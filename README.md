@@ -1,4 +1,4 @@
-# apstrahub-configpack-example
+# apstrahub-configpack-unused-interfaces-power-saving
 
 This repository contains an ApstraHub ConfigPack.
 
